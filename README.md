@@ -1,4 +1,4 @@
-Práctica 1: Web scraping con Python
+Práctica 1: Web Scraping con Python
 
 Descripción
 
