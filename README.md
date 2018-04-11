@@ -15,7 +15,7 @@ Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
 
 Ficheros del código fuente y DataSet
 - codigo/MainCoop.py, clase principal del scraping, aquí llama a ScrapingCoop.py que contiene la clase ProductosScraper().
-- codigo/ScrapingCoop.py, Contiene la implementación de la clase ProductosScraper(), cuyos métodos obtienen los urls utilizados en cada página para poder obtener los productos, beneficios y agencias de las dos cooperativas.
+- codigo/ScrapingCoop.py, Contiene la implementación de la clase ProductosScraper(), cuyos métodos obtienen los urls utilizados en cada página para poder obtener los productos, beneficios y 5 agencias de las dos cooperativas.
 - csv/DataSetCoop.csv, se encuentra el archivo DataSet con los datos del scraping
 - pdf/ CaractDataSetCoopMRMJ.pdf, se encuentra el archivo con las características del DataSet
 
