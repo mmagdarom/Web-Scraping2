@@ -8,6 +8,7 @@ En esta práctica, hemos aplicado técnicas de web scraping en el lenguaje Pytho
 Lo anterior, es de gran utilidad para que la comunidad ecuatoriana conozca y tome la decisión de apertura o cierre de cuentas en alguna de las 2 entidades financieras que son reconocidas a nivel del país.
 
 Miembros del equipo
+
 Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
 -	María Magdalena Romero Guzmán
 -	María Augusta Jimbo Granda
