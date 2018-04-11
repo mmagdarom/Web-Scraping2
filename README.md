@@ -4,6 +4,7 @@ Descripción
 
 La presente práctica pertenece a la asignatura de Topología y Ciclo de Vida de los Datos de la maestría Ciencia de Datos de la UOC.
 En esta práctica, hemos aplicado técnicas de web scraping en el lenguaje Python, con el objetivo de extraer información y obtener el dataset de dos sitios web de las instituciones financieras: JEP (Juventud Ecuatoriana Progresista) y CCCA (Cooperativa de Ahorro y Crédito Cámara de Comercio de Ambato).
+
 Lo anterior, es de gran utilidad para que la comunidad ecuatoriana conozca y tome la decisión de apertura o cierre de cuentas en alguna de las 2 entidades financieras que son reconocidas a nivel del país.
 
 Miembros del equipo
